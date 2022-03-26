@@ -40,8 +40,8 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: test-shortname
-            apiUrl: https://n1ckisthereu.github.io/
+            shortname: nicholasguirro.disqus.com
+            apiUrl:
             apiKey:
             admin:
             adminLabel:
