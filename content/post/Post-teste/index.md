@@ -12,6 +12,8 @@ tags : [
 
 categories : [
     "Test",
+    "test",
+    "newteste",
 ]
 ---
 
