@@ -50,7 +50,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 💻
+        emoji: 🍥
         subtitle: My blog about technology and hacking.
         avatar:
             enabled: true
@@ -194,15 +194,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/n1ckisthereu
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: instagram
+          name: Instragram
+          url: https://www.instagram.com/eumn1ck
           params:
-              icon: brand-twitter
+              icon: brand-instragram
 
 related:
     includeNewer: true
