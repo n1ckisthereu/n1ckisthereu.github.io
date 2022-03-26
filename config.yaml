@@ -202,7 +202,7 @@ menu:
           name: Instragram
           url: https://www.instagram.com/eumn1ck
           params:
-              icon: brand-instragram
+              icon: brand-instagram
 
 related:
     includeNewer: true
