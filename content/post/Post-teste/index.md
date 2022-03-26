@@ -11,9 +11,7 @@ tags : [
 ]
 
 categories : [
-    "Test",
-    "test",
-    "newteste",
+    "tec",
 ]
 ---
 
