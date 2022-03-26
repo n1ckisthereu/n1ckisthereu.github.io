@@ -40,7 +40,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: nicholasguirro.disqus.com
+            shortname: nicholasguirro
             apiUrl:
             apiKey:
             admin:
