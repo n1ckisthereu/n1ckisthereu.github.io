@@ -39,8 +39,6 @@ params:
         enabled: true
         provider: disqus
 
-        disqusShortname : "nicholasguirro"
-
         disqusjs:
             shortname: nicholasguirro
             apiUrl:
