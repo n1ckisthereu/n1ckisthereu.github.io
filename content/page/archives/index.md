@@ -1,6 +1,6 @@
 ---
 title: "Artigos"
-date: 2019-05-28
+date: 2022-03-26
 layout: "archives"
 slug: "archives"
 menu:

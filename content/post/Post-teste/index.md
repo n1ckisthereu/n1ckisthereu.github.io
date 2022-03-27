@@ -1,13 +1,11 @@
 ---
-title: "Test"
-description: "This is an example category"
+title: "Ainda não temos posts aguarde por favor!"
+description: "sem posts no momento veja seção sobre!"
+date: '2022-03-26'
 slug: "test"
 image: "https://img.r7.com/images/2014/07/03/81zn9l9g4j_60foq0w8u6_file.jpg?dimensions=780x340"
 tags : [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "Post teste",
 ]
 
 categories : [
@@ -15,37 +13,4 @@ categories : [
 ]
 ---
 
-
-## Como o xanax descobriu mr robot
-
-ele descobriu jogando um jogo de celular 
-qualidades desse game
-
-- jogo bonito
-
-- jogo feio
-
-## Qual o nome do xanax
-
-O nome de xanax é alveriano
-
-## verdadeiro nome
-
-João
-
-![Drag Racing](https://img.r7.com/images/2014/07/03/81zn9l9g4j_60foq0w8u6_file.jpg?dimensions=780x340)
-
-
-### Qual foi o codiguin para hackar a nasa?
-
-https://google.com.br
-
-```py
-
-import socket
-
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-def teste(teste, teste):
-
-```
+Ainda não realizamos nenhum post leia a seção sobre! 🔒
