@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicholas Guirro</title><link>https://n1ckisthereu.github.io/</link><description>Recent content on Nicholas Guirro</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://n1ckisthereu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Artigos</title><link>https://n1ckisthereu.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/archives/</guid><description/></item><item><title>Sobre</title><link>https://n1ckisthereu.github.io/sobre/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/sobre/</guid><description>&lt;p>Written in Go, Hugo is an open source static site generator available under the &lt;a class="link" href="https://github.com/gohugoio/hugo/blob/master/LICENSE" target="_blank" rel="noopener"
->Apache Licence 2.0.&lt;/a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p>
-&lt;p>Hugo makes use of a variety of open source projects including:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/yuin/goldmark" target="_blank" rel="noopener"
->https://github.com/yuin/goldmark&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/alecthomas/chroma" target="_blank" rel="noopener"
->https://github.com/alecthomas/chroma&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/muesli/smartcrop" target="_blank" rel="noopener"
->https://github.com/muesli/smartcrop&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/spf13/cobra" target="_blank" rel="noopener"
->https://github.com/spf13/cobra&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/spf13/viper" target="_blank" rel="noopener"
->https://github.com/spf13/viper&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p>
-&lt;p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p>
-&lt;p>Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p>
-&lt;p>Learn more and contribute on &lt;a class="link" href="https://github.com/gohugoio" target="_blank" rel="noopener"
->GitHub&lt;/a>.&lt;/p></description></item><item><title>Links</title><link>https://n1ckisthereu.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicholas Guirro 🐱‍💻</title><link>https://n1ckisthereu.github.io/</link><description>Recent content on Nicholas Guirro 🐱‍💻</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://n1ckisthereu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Sobre</title><link>https://n1ckisthereu.github.io/sobre/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/sobre/</guid><description>&lt;p>Oi meu nome Nicholas e desde que me entendo por &amp;ldquo;gente&amp;rdquo; sempre tive uma imensa
+vontade de saber como tudo funcionava, bom comecei bem cedo, aos 8 anos de idade,
+eu sempre gostei muito de jogar tive minhas primeiras experiências com os famosos
+consoles, a minha saga com hacking começou com o game &amp;ldquo;God of War&amp;rdquo; onde eu descobri
+as speedruns e pesquisando por acaso acabei caindo em um video de engenharia reversa
+em consoles, bom eu não tinha um PC, então ia muito as Lan Houses porém não podia
+fazer muita coisa o acesso aos pc&amp;rsquo;s da lan eram muito limitados, então ia a casa
+de familiares e foi onde comecei a realizar desbloqueio de consoles.
+Bom eu não tinha grana para comprar um PC, a cidade onde eu morava era muito pequena
+e por não ter muito conhecimento técnico na area de informatica na cidade, por qualquer
+defeito eles descartavam as maquinas (Principalmente nas prefeituras) então eu ia na
+buscas destes computadores, comecei a juntar e montar muitas maquinas, porém as maquinas
+não tinham um hardware muito potente, então não conseguia usar essas maquinas para jogar
+elas não desempenhavam muito bem, o windows gargalava muito era impossível usar!
+E foi a minha porta de entrada para o mundo Linux, bom lembro até hoje a primeira distribuição
+que utilizei foi o Slack com a interface XFCE, não fiquei muito tempo no slack e fui
+para o ArchLinux, e peguei um amor por essa distro e foi o meu sistema até o ano de 2021,
+bom em todas essas transições descobri a programação, comecei a fazer algumas automatizações
+com shell script.&lt;/p>
+&lt;p>A partir desse momento eu tinha uma sede insaciavel por conhecimento, e desse momento
+em diante comecei a devorar tudo, sempre amei ler então passava horas e horas consumindo
+diversos tipos de conteúdo, bom tracei um longo caminho até aqui, que não vou detalhar
+aqui para isso não se tornar um livro.&lt;/p>
+&lt;p>Hoje com 18 anos, trabalho como Pentester e desenvolvedor, e decidi criar esse blog
+para dividir meu conhecimento, mostrar meu apredizado, aprender com vocês, e para
+mostrar um pouco mais sobre o mundo da tecnologia e hacking, espero que goste 😊!&lt;/p></description></item><item><title>Artigos</title><link>https://n1ckisthereu.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://n1ckisthereu.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
