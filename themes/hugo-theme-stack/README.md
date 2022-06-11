@@ -86,3 +86,7 @@ Some references that I took while building this theme:
 | ------- | ------|
 | [artchen/hexo-theme-element](https://github.com/artchen/hexo-theme-element) | [MIT](https://github.com/artchen/hexo-theme-element/blob/master/LICENSE) |
 | [MunifTanjim/minimo](https://github.com/MunifTanjim/minimo) | [MIT](https://github.com/MunifTanjim/minimo/blob/master/LICENSE) |
+
+![](../sudoku.png)
+
+## SUDOKU DEV
