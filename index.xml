@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicholas Guirro</title><link>https://n1ckisthereu.github.io/</link><description>Recent content on Nicholas Guirro</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://n1ckisthereu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Artigos</title><link>https://n1ckisthereu.github.io/archives/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/archives/</guid><description/></item><item><title>Sobre</title><link>https://n1ckisthereu.github.io/sobre/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/sobre/</guid><description>&lt;p>Oi meu nome Nicholas e desde que me entendo por &amp;ldquo;gente&amp;rdquo; sempre tive uma imensa
-vontade de saber como tudo funcionava, bom comecei bem cedo, aos 8 anos de idade,
-eu sempre gostei muito de jogar tive minhas primeiras experiências com os famosos
-consoles, a minha saga com hacking começou com o game &amp;ldquo;God of War&amp;rdquo; onde eu descobri
-as speedruns e pesquisando por acaso acabei caindo em um video de engenharia reversa
-em consoles, bom eu não tinha um PC, então ia muito as Lan Houses porém não podia
-fazer muita coisa o acesso aos pc&amp;rsquo;s da lan eram muito limitados, então ia a casa
-de familiares e foi onde comecei a realizar desbloqueio de consoles.
-Bom eu não tinha grana para comprar um PC, a cidade onde eu morava era muito pequena
-e por não ter muito conhecimento técnico na area de informatica na cidade, por qualquer
-defeito eles descartavam as maquinas (Principalmente nas prefeituras) então eu ia na
-buscas destes computadores, comecei a juntar e montar muitas maquinas, porém as maquinas
-não tinham um hardware muito potente, então não conseguia usar essas maquinas para jogar
-elas não desempenhavam muito bem, o windows gargalava muito era impossível usar!
-E foi a minha porta de entrada para o mundo Linux, bom lembro até hoje a primeira distribuição
-que utilizei foi o Slack com a interface XFCE, não fiquei muito tempo no slack e fui
-para o ArchLinux, e peguei um amor por essa distro e foi o meu sistema até o ano de 2021,
-bom em todas essas transições descobri a programação, comecei a fazer algumas automatizações
-com shell script.&lt;/p>
-&lt;p>A partir desse momento eu tinha uma sede insaciavel por conhecimento, e desse momento
-em diante comecei a devorar tudo, sempre amei ler então passava horas e horas consumindo
-diversos tipos de conteúdo, bom tracei um longo caminho até aqui, que não vou detalhar
-aqui para isso não se tornar um livro.&lt;/p>
-&lt;p>Hoje com 18 anos, trabalho como Pentester e desenvolvedor, e decidi criar esse blog
-para dividir meu conhecimento, mostrar meu apredizado, aprender com vocês, e para
-mostrar um pouco mais sobre o mundo da tecnologia e hacking, espero que goste 😊!&lt;/p></description></item><item><title>Placeholder Text</title><link>https://n1ckisthereu.github.io/p/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/p/placeholder-text/</guid><description>&lt;img src="https://www.hackthebox.com/storage/avatars/7a8190f3ea13737a2757e3c0d9c220cb.png?v=1" alt="Featured image of post Placeholder Text" />&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicholas Guirro</title><link>https://n1ckisthereu.github.io/</link><description>Recent content on Nicholas Guirro</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://n1ckisthereu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>https://n1ckisthereu.github.io/p/test-post/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/p/test-post/</guid><description>&lt;img src="https://www.hackthebox.com/storage/avatars/7a8190f3ea13737a2757e3c0d9c220cb.png?v=1" alt="Featured image of post Test Post" />&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
 &lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Why do we use it?&lt;/p>
 &lt;p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &amp;lsquo;Content here, content here&amp;rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &amp;rsquo;lorem ipsum&amp;rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p>
@@ -37,7 +12,7 @@ Why do we use it?&lt;/p>
 Where can I get some?&lt;/p>
 &lt;p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p>
 &lt;p>$$
-$\sum_{i=1}^\infty\frac{1}{n^2}
+\sum_{i=1}^\infty\frac{1}{n^2}
 =\frac{\pi^2}{6}$
 $$&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -63,7 +38,32 @@ allowfullscreen
 title="YouTube Video"
 >
 &lt;/iframe>
-&lt;/div></description></item><item><title>Links</title><link>https://n1ckisthereu.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/links/</guid><description>&lt;!-- To use this feature, add `links` section to frontmatter.
+&lt;/div></description></item><item><title>Artigos</title><link>https://n1ckisthereu.github.io/archives/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/archives/</guid><description/></item><item><title>Sobre</title><link>https://n1ckisthereu.github.io/sobre/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/sobre/</guid><description>&lt;p>Oi meu nome Nicholas e desde que me entendo por &amp;ldquo;gente&amp;rdquo; sempre tive uma imensa
+vontade de saber como tudo funcionava, bom comecei bem cedo, aos 8 anos de idade,
+eu sempre gostei muito de jogar tive minhas primeiras experiências com os famosos
+consoles, a minha saga com hacking começou com o game &amp;ldquo;God of War&amp;rdquo; onde eu descobri
+as speedruns e pesquisando por acaso acabei caindo em um video de engenharia reversa
+em consoles, bom eu não tinha um PC, então ia muito as Lan Houses porém não podia
+fazer muita coisa o acesso aos pc&amp;rsquo;s da lan eram muito limitados, então ia a casa
+de familiares e foi onde comecei a realizar desbloqueio de consoles.
+Bom eu não tinha grana para comprar um PC, a cidade onde eu morava era muito pequena
+e por não ter muito conhecimento técnico na area de informatica na cidade, por qualquer
+defeito eles descartavam as maquinas (Principalmente nas prefeituras) então eu ia na
+buscas destes computadores, comecei a juntar e montar muitas maquinas, porém as maquinas
+não tinham um hardware muito potente, então não conseguia usar essas maquinas para jogar
+elas não desempenhavam muito bem, o windows gargalava muito era impossível usar!
+E foi a minha porta de entrada para o mundo Linux, bom lembro até hoje a primeira distribuição
+que utilizei foi o Slack com a interface XFCE, não fiquei muito tempo no slack e fui
+para o ArchLinux, e peguei um amor por essa distro e foi o meu sistema até o ano de 2021,
+bom em todas essas transições descobri a programação, comecei a fazer algumas automatizações
+com shell script.&lt;/p>
+&lt;p>A partir desse momento eu tinha uma sede insaciavel por conhecimento, e desse momento
+em diante comecei a devorar tudo, sempre amei ler então passava horas e horas consumindo
+diversos tipos de conteúdo, bom tracei um longo caminho até aqui, que não vou detalhar
+aqui para isso não se tornar um livro.&lt;/p>
+&lt;p>Hoje com 18 anos, trabalho como Pentester e desenvolvedor, e decidi criar esse blog
+para dividir meu conhecimento, mostrar meu apredizado, aprender com vocês, e para
+mostrar um pouco mais sobre o mundo da tecnologia e hacking, espero que goste 😊!&lt;/p></description></item><item><title>Links</title><link>https://n1ckisthereu.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://n1ckisthereu.github.io/links/</guid><description>&lt;!-- To use this feature, add `links` section to frontmatter.
 This page's frontmatter:
 ```yaml
 links:
