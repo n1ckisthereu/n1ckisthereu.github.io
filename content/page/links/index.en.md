@@ -2,14 +2,15 @@
 title: Links
 links:
   - title: TryHackMe
-    description: 🔴 Perfil do Try Hack Me 
+    description: 🔴 Try Hack Me Profile 
     website: https://tryhackme.com/p/n1ck
     image: https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c
 
   - title: HackTheBox
-    description: 🟢 Perfil do Hack The Box 
+    description: 🟢 Hack The Box Profile 
     website: https://app.hackthebox.com/profile/652411
     image: https://avatars.githubusercontent.com/u/31746234?s=280&v=4
+
 menu:
     main: 
         weight: -50
