@@ -1,0 +1,35 @@
+# Configure main menu and social menu
+# [[main]]
+# identifier = "home"
+# name = "Home"
+# url = "/"
+# [main.params]
+# icon = "home"
+# newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/CaiJimmy/hugo-theme-stack"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "links"
+name = "Links"
+url = "/links"
+newtab = false
+
+[social.params]
+icon = "brand-links"
+
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://youtube.com/@nickx00"
+newtab = false
+
+[social.params]
+icon = "brand-youtube"
