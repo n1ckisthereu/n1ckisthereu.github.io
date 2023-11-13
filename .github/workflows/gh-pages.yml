@@ -42,9 +42,8 @@ jobs:
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4
-							if: github.ref == 'refs/heads/main'
               with:
                   branch: gh-pages
                   folder: public
                   clean: true
-                  single-commit: true
+                  single-commit: true 
