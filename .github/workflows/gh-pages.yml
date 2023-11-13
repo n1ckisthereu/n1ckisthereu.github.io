@@ -41,8 +41,8 @@ jobs:
               run: hugo --minify --gc
 
             - name: Deploy 🚀
-							if: github.ref == 'refs/heads/main'
               uses: JamesIves/github-pages-deploy-action@v4
+							if: github.ref == 'refs/heads/main'
               with:
                   branch: gh-pages
                   folder: public
