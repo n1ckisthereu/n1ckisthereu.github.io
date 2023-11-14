@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/n1ckisthereu"
 
 [social.params]
 icon = "brand-github"
@@ -19,7 +19,6 @@ icon = "brand-github"
 identifier = "links"
 name = "Links"
 url = "/links"
-newtab = false
 
 [social.params]
 icon = "brand-links"
@@ -29,7 +28,6 @@ icon = "brand-links"
 identifier = "youtube"
 name = "Youtube"
 url = "https://youtube.com/@nickx00"
-newtab = false
 
 [social.params]
 icon = "brand-youtube"
