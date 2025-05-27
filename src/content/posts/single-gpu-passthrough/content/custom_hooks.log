@@ -1,0 +1,225 @@
+03/03/2025 19:11:17 : Beginning of Startup!
+2711 plasmashell
+03/03/2025 19:11:17 : Display Manager is KDE, running KDE clause!
+03/03/2025 19:11:17 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 19:11:17 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 19:11:17 : AMD GPU Drivers Unloaded
+03/03/2025 19:11:17 : End of Startup!
+03/03/2025 19:11:39 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 19:11:39 : Loading AMD GPU Drivers
+03/03/2025 20:15:00 : Beginning of Startup!
+2700 plasmashell
+03/03/2025 20:15:00 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:15:00 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:15:00 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module amdgpu is in use.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:15:00 : AMD GPU Drivers Unloaded
+03/03/2025 20:15:00 : End of Startup!
+03/03/2025 20:15:04 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 20:15:04 : Loading AMD GPU Drivers
+03/03/2025 20:15:04 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 20:15:04 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 20:15:04 : End of Teardown!
+03/03/2025 20:15:22 : Beginning of Startup!
+9134 plasmashell
+03/03/2025 20:15:22 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:15:22 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:15:22 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:15:22 : AMD GPU Drivers Unloaded
+03/03/2025 20:15:22 : End of Startup!
+03/03/2025 20:15:25 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 20:15:25 : Loading AMD GPU Drivers
+03/03/2025 20:15:25 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 20:15:25 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 20:15:25 : End of Teardown!
+03/03/2025 20:21:17 : Beginning of Startup!
+2682 plasmashell
+03/03/2025 20:21:17 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:21:17 : Display Manager = display-manager
+03/03/2025 20:21:17 : Unbinding Console 1
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:21:17 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:21:17 : AMD GPU Drivers Unloaded
+03/03/2025 20:21:17 : End of Startup!
+03/03/2025 20:26:19 : Beginning of Startup!
+2701 plasmashell
+03/03/2025 20:26:19 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:26:19 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:26:19 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:26:19 : AMD GPU Drivers Unloaded
+03/03/2025 20:26:19 : End of Startup!
+03/03/2025 20:28:45 : Beginning of Startup!
+2697 plasmashell
+03/03/2025 20:28:45 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:28:45 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:28:45 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:28:45 : AMD GPU Drivers Unloaded
+03/03/2025 20:28:45 : End of Startup!
+03/03/2025 20:28:49 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 20:28:49 : Loading AMD GPU Drivers
+03/03/2025 20:28:49 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 20:28:49 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 20:28:49 : End of Teardown!
+03/03/2025 20:36:47 : Beginning of Startup!
+5422 plasmashell
+03/03/2025 20:36:47 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:36:47 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:36:47 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:36:47 : AMD GPU Drivers Unloaded
+03/03/2025 20:36:47 : End of Startup!
+03/03/2025 20:49:03 : Beginning of Startup!
+2710 plasmashell
+03/03/2025 20:49:03 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:49:03 : Display Manager = display-manager
+03/03/2025 20:49:03 : Unbinding Console 1
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:49:03 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:49:03 : AMD GPU Drivers Unloaded
+03/03/2025 20:49:03 : End of Startup!
+03/03/2025 20:55:37 : Beginning of Startup!
+2690 plasmashell
+03/03/2025 20:55:37 : Display Manager is KDE, running KDE clause!
+03/03/2025 20:55:37 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 20:55:37 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 20:55:37 : AMD GPU Drivers Unloaded
+03/03/2025 20:55:37 : End of Startup!
+03/03/2025 20:55:40 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 20:55:40 : Loading AMD GPU Drivers
+03/03/2025 20:55:40 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 20:55:40 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 20:55:40 : End of Teardown!
+03/03/2025 21:04:43 : Beginning of Startup!
+5892 plasmashell
+03/03/2025 21:04:43 : Display Manager is KDE, running KDE clause!
+03/03/2025 21:04:43 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 21:04:43 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 21:04:43 : AMD GPU Drivers Unloaded
+03/03/2025 21:04:43 : End of Startup!
+03/03/2025 21:04:46 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 21:04:46 : Loading AMD GPU Drivers
+03/03/2025 21:04:46 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 21:04:46 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 21:04:46 : End of Teardown!
+03/03/2025 22:27:06 : Beginning of Startup!
+28393 plasmashell
+03/03/2025 22:27:06 : Display Manager is KDE, running KDE clause!
+03/03/2025 22:27:06 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/03/2025 22:27:06 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/03/2025 22:27:06 : AMD GPU Drivers Unloaded
+03/03/2025 22:27:06 : End of Startup!
+03/03/2025 22:27:09 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/03/2025 22:27:09 : Loading AMD GPU Drivers
+03/03/2025 22:27:09 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/03/2025 22:27:09 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/03/2025 22:27:09 : End of Teardown!
+03/04/2025 10:31:02 : Beginning of Startup!
+2710 plasmashell
+03/04/2025 10:31:02 : Display Manager is KDE, running KDE clause!
+03/04/2025 10:31:02 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/04/2025 10:31:02 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module amdgpu is in use.
+modprobe: FATAL: Module drm is builtin.
+03/04/2025 10:31:02 : AMD GPU Drivers Unloaded
+03/04/2025 10:31:02 : End of Startup!
+03/04/2025 10:31:05 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/04/2025 10:31:05 : Loading AMD GPU Drivers
+03/04/2025 10:31:05 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/04/2025 10:31:05 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/04/2025 10:31:05 : End of Teardown!
+03/04/2025 10:44:19 : Beginning of Startup!
+2689 plasmashell
+03/04/2025 10:44:19 : Display Manager is KDE, running KDE clause!
+03/04/2025 10:44:19 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/04/2025 10:44:19 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/04/2025 10:44:19 : AMD GPU Drivers Unloaded
+03/04/2025 10:44:19 : End of Startup!
+03/04/2025 10:44:22 : Beginning of Teardown!
+grep: /tmp/vfio-is-nvidia: No such file or directory
+03/04/2025 10:44:22 : Loading AMD GPU Drivers
+03/04/2025 10:44:22 : AMD GPU Drivers Loaded
+/usr/bin/systemctl
+03/04/2025 10:44:22 : Var has been collected from file: display-manager
+/usr/local/bin/vfio-teardown: line 96: /tmp/vfio-bound-consoles: No such file or directory
+03/04/2025 10:44:22 : End of Teardown!
+03/04/2025 10:53:34 : Beginning of Startup!
+2684 plasmashell
+03/04/2025 10:53:34 : Display Manager is KDE, running KDE clause!
+03/04/2025 10:53:34 : Display Manager = display-manager
+10:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X] [1002:699f] (rev c7)
+03/04/2025 10:53:34 : System has an AMD GPU
+/usr/local/bin/vfio-startup: line 140: echo: write error: No such device
+modprobe: FATAL: Module drm_kms_helper is builtin.
+modprobe: FATAL: Module drm is builtin.
+03/04/2025 10:53:34 : AMD GPU Drivers Unloaded
+03/04/2025 10:53:34 : End of Startup!
